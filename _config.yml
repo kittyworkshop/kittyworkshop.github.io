@@ -92,7 +92,7 @@ service-worker: true
 
 
 # Useful Links
-friends: [
+useful-links: [
     {
         title: "SAP",
         href: "https://www.sap.com/hk/index.html"
