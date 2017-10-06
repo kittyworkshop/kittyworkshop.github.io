@@ -1,4 +1,5 @@
----layout:     post                  
+---
+layout:     post                  
 title:      Adding customized field in MM01 MM02 MM03            
 subtitle:   An enhancement I implemented before
 date:       2017-10-06             
