@@ -1,4 +1,5 @@
 ---
+
 layout:     post                  
 title:      Adding customized field in MM01 MM02 MM03            
 subtitle:   An enhancement I implemented before
@@ -7,6 +8,7 @@ author:     Kitty                    
 header-img: img/project1.jpg   
 catalog: true                      
 tags: SAP ABAP Enhancement
+
 ---
 
 # Overview
