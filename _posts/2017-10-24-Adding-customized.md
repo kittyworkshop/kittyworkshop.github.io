@@ -7,7 +7,5 @@ author:     Kitty                    
 header-img: img/project1.jpg   
 catalog: true                      
 tags: SAP 
-      ABAP 
-      Enhancement
 ---
 # Overview
