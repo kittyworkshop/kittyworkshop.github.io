@@ -1,7 +1,7 @@
 ---
 layout:     post                  
-title:      Adding customized field in MM01 MM02 MM03            
-subtitle:   An enhancement I implemented before
+title:      Adding customized field            
+subtitle:   An enhancement I implemented 
 date:       2017-10-24            
 author:     Kitty                     
 header-img: img/project1.jpg   
